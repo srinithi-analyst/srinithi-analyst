@@ -19,7 +19,7 @@
 ### 💻 Programming & Data
 - Python  
 - SQL  
-- Java (Basics)
+- C
 
 ### 📊 Data Analytics & Machine Learning
 - Pandas, NumPy  
